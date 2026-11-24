@@ -1,0 +1,7 @@
+id_viaje,id_bus,origen,destino,fecha,hora
+101,1,Concepcion,Santiago,2026-11-25,08:30
+102,2,Chillan,Santiago,2026-11-25,10:00
+103,3,Talca,Linares,2026-11-26,14:15
+104,1,Santiago,Rancagua,2026-11-26,18:00
+105,2,Concepcion,Talca,2026-11-27,07:45
+

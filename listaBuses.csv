@@ -1,0 +1,5 @@
+idBus,patente,capacidad,disponibilidad
+1,ABCD12,40,True
+2,EFGH34,44,True
+3,IJKL56,36,True
+4,MNOP78,40,False
